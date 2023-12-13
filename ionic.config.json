@@ -1,7 +1,5 @@
 {
   "name": "samirana",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "vue-vite"
+  "integrations": {},
+  "type": "vue"
 }
